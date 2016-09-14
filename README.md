@@ -1,4 +1,4 @@
-## Dollar.js
+## dollar.js
 jQuery like selectors without using jQuery
 
 ## Example
