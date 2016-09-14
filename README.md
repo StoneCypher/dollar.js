@@ -14,4 +14,7 @@ jQuery like selectors without using jQuery
     $('.test');
     
 #### Selector (Multiple Elements)
-    $('.test li'); //returns array of li elements
+    $('.test li'); //returns Array of li elements
+    
+#### Complex selectors
+    $('.test li:first-child + li'); //returns element
